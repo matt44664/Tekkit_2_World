@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "ic2:basic/buildcompressor": {
+    "criteria": {
+      "has_item": "2024-10-14 23:09:35 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-10-05 22:21:07 +0100"
@@ -401,6 +407,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-10-05 02:11:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 23:14:10 +0100"
     },
     "done": true
   },
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 23:14:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-10-05 02:10:03 +0100"
@@ -578,6 +596,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-10-05 23:03:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-14 23:14:10 +0100"
     },
     "done": true
   },
@@ -1072,6 +1096,12 @@
     },
     "done": true
   },
+  "ic2:basic/gogreen": {
+    "criteria": {
+      "has_stat": "2024-10-14 21:40:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-10-05 23:03:04 +0100"
@@ -1247,6 +1277,12 @@
     },
     "done": true
   },
+  "ic2:basic/buildrecycler": {
+    "criteria": {
+      "has_item": "2024-10-14 23:09:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2024-10-05 22:11:45 +0100"
@@ -1280,6 +1316,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-10-05 23:03:04 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/compressor_recipes": {
+    "criteria": {
+      "has_item": "2024-10-14 23:09:35 +0100"
     },
     "done": true
   },
@@ -1948,6 +1990,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-10-05 01:41:10 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/recycler_recipes": {
+    "criteria": {
+      "has_item": "2024-10-14 23:09:50 +0100"
     },
     "done": true
   },

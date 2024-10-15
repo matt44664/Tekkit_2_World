@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/compressor": {
+    "criteria": {
+      "compressor": "2024-10-15 22:33:11 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2024-10-06 01:06:19 +0100"
@@ -473,6 +479,14 @@
   "projecte:alchemical_bag": {
     "criteria": {
       "bag": "2024-10-06 01:45:04 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2024-10-15 19:37:21 +0100",
+      "oxygen_gear": "2024-10-15 19:21:34 +0100",
+      "oxygen_mask": "2024-10-15 19:37:23 +0100"
     },
     "done": true
   },
@@ -678,6 +692,12 @@
   "ic2:basic/factorygiant": {
     "criteria": {
       "has_stat": "2024-10-06 21:12:32 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/electric_compressor": {
+    "criteria": {
+      "electric_compressor": "2024-10-14 21:22:35 +0100"
     },
     "done": true
   },
@@ -969,15 +989,33 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2024-10-15 19:37:21 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-10-06 00:17:30 +0100"
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2024-10-15 19:43:55 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/plated_shield_recipes": {
     "criteria": {
       "has_item": "2024-10-12 21:11:07 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2024-10-15 19:37:21 +0100"
     },
     "done": true
   },
@@ -1005,15 +1043,24 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/oxygen_collector": {
+    "criteria": {
+      "oxygen_collector": "2024-10-15 19:09:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-10-14 20:35:59 +0100",
       "swampland": "2024-10-05 01:52:55 +0100",
       "birch_forest": "2024-10-05 22:13:53 +0100",
       "deep_ocean": "2024-10-05 01:52:46 +0100",
       "beaches": "2024-10-05 01:51:51 +0100",
+      "extreme_hills_with_trees": "2024-10-14 20:35:32 +0100",
       "plains": "2024-10-05 01:55:30 +0100",
       "taiga": "2024-10-05 00:03:07 +0100",
       "taiga_hills": "2024-10-05 23:41:48 +0100",
+      "birch_forest_hills": "2024-10-14 20:37:36 +0100",
       "ocean": "2024-10-05 01:51:52 +0100",
       "extreme_hills": "2024-10-05 01:45:11 +0100",
       "roofed_forest": "2024-10-05 01:51:45 +0100",
@@ -1063,6 +1110,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fuel_loader": {
+    "criteria": {
+      "fuel_loader": "2024-10-15 20:27:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-10-05 22:22:35 +0100"
@@ -1090,6 +1143,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-10-06 00:20:23 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/key_t1": {
+    "criteria": {
+      "got_key": "2024-10-15 20:20:25 +0100"
     },
     "done": true
   },
@@ -1144,6 +1203,12 @@
   "ic2:recipes/treetap_recipes": {
     "criteria": {
       "has_item": "2024-10-05 01:53:02 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/advanced_pocket_computer": {
+    "criteria": {
+      "has_apple": "2024-10-15 20:16:51 +0100"
     },
     "done": true
   },
@@ -1222,6 +1287,12 @@
   "ic2:recipes/lv-transformer_recipes": {
     "criteria": {
       "has_item": "2024-10-06 02:13:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-10-15 19:04:43 +0100"
     },
     "done": true
   },
@@ -1399,10 +1470,17 @@
       "cooked_mutton": "2024-10-05 02:03:44 +0100",
       "cooked_beef": "2024-10-05 02:11:30 +0100",
       "potato": "2024-10-10 17:18:13 +0100",
+      "golden_apple": "2024-10-15 20:18:10 +0100",
       "cooked_chicken": "2024-10-05 22:50:25 +0100",
       "carrot": "2024-10-07 23:37:04 +0100"
     },
     "done": false
+  },
+  "galacticraftcore:galacticraft/basic_wafer": {
+    "criteria": {
+      "compressor": "2024-10-15 19:08:39 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -1596,6 +1674,12 @@
     },
     "done": true
   },
+  "railcraft:tracks/blast_furnace": {
+    "criteria": {
+      "build": "2024-10-15 00:10:01 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/stickwood_recipes": {
     "criteria": {
       "has_item_0": "2024-10-05 01:42:13 +0100"
@@ -1710,6 +1794,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/moon_buggy_schematic": {
+    "criteria": {
+      "got_schematic": "2024-10-15 20:47:38 +0100"
+    },
+    "done": true
+  },
   "projecte:relay": {
     "criteria": {
       "relay": "2024-10-09 22:46:43 +0100"
@@ -1776,6 +1866,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/circuit_fabricator": {
+    "criteria": {
+      "circuit_fabricator": "2024-10-15 22:40:24 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/raw_carbon_fibre_recipes": {
     "criteria": {
       "has_item": "2024-10-06 22:56:12 +0100"
@@ -1815,6 +1911,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-10-05 01:42:05 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2024-10-15 19:42:30 +0100"
     },
     "done": true
   },
@@ -1948,6 +2050,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2024-10-14 20:37:05 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/compressor_recipes": {
     "criteria": {
       "has_item": "2024-10-06 22:43:11 +0100"
@@ -2056,6 +2164,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/moon_buggy": {
+    "criteria": {
+      "got_buggy": "2024-10-15 20:48:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-10-05 23:01:08 +0100"
@@ -2131,6 +2245,18 @@
   "ic2:recipes/cobblestone_recipes": {
     "criteria": {
       "has_item_0": "2024-10-05 01:43:03 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/normal_pocket_computer": {
+    "criteria": {
+      "has_apple": "2024-10-15 20:16:51 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/advanced_wafer": {
+    "criteria": {
+      "compressor": "2024-10-15 22:35:03 +0100"
     },
     "done": true
   },
@@ -2251,6 +2377,12 @@
   "ic2:recipes/scrap_recipes": {
     "criteria": {
       "has_item": "2024-10-12 23:37:04 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_compressor": {
+    "criteria": {
+      "oxygen_compressor": "2024-10-15 19:11:59 +0100"
     },
     "done": true
   },
