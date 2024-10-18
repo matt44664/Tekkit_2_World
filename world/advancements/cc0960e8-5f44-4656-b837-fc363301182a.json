@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "ic2:recipes/muffler_upgrade_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 23:36:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-05 22:57:58 +0100"
@@ -152,6 +158,12 @@
   "ic2:recipes/charcoal_recipes": {
     "criteria": {
       "has_item": "2024-10-05 22:19:47 +0100"
+    },
+    "done": true
+  },
+  "ic2:basic/buildmassfab": {
+    "criteria": {
+      "has_item": "2024-10-16 21:14:04 +0100"
     },
     "done": true
   },
@@ -278,6 +290,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/rocket_t1": {
+    "criteria": {
+      "rocket_crafted_56": "2024-10-17 00:24:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-10-05 02:11:28 +0100"
@@ -398,6 +416,12 @@
     },
     "done": true
   },
+  "ic2:recipes/mfsu_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 21:32:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-10-12 15:31:24 +0100"
@@ -500,6 +524,18 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-10-05 01:44:19 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/advanced_machine_block_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 21:05:27 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/hv-transformer_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 23:47:00 +0100"
     },
     "done": true
   },
@@ -779,6 +815,14 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-10-05 23:03:04 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/oxygen_gear": {
+    "criteria": {
+      "heavy_tank": "2024-10-17 00:01:27 +0100",
+      "oxygen_gear": "2024-10-17 00:01:19 +0100",
+      "oxygen_mask": "2024-10-17 00:01:19 +0100"
     },
     "done": true
   },
@@ -1093,6 +1137,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-10-05 01:38:23 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/advanced_alloy_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 21:01:27 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/launch_rocket": {
+    "criteria": {
+      "launched_rocket": "2024-10-17 00:13:38 +0100"
     },
     "done": true
   },
@@ -1421,9 +1477,21 @@
     },
     "done": true
   },
+  "ic2:recipes/iridium_ore_recipes": {
+    "criteria": {
+      "has_item": "2024-10-17 23:35:21 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-10-12 15:31:24 +0100"
+    },
+    "done": true
+  },
+  "ic2:basic/buildmfs": {
+    "criteria": {
+      "has_item": "2024-10-16 21:32:13 +0100"
     },
     "done": true
   },
@@ -1478,6 +1546,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-05 22:57:58 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/moon_buggy": {
+    "criteria": {
+      "got_buggy": "2024-10-17 00:19:51 +0100"
     },
     "done": true
   },
@@ -1715,6 +1789,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/fill_all_tanks": {
+    "criteria": {
+      "heavy_tank": "2024-10-17 00:01:27 +0100"
+    },
+    "done": false
+  },
   "ic2:recipes/nanosuit_leggings_recipes": {
     "criteria": {
       "has_item": "2024-10-12 16:56:30 +0100"
@@ -1724,6 +1804,18 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-10-12 15:31:24 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/moon": {
+    "criteria": {
+      "traveled_to_moon": "2024-10-17 00:16:04 +0100"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/fill_tank": {
+    "criteria": {
+      "heavy_tank": "2024-10-17 00:01:27 +0100"
     },
     "done": true
   },
@@ -1846,6 +1938,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2024-10-12 16:48:48 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/scrap_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 23:52:19 +0100"
     },
     "done": true
   },
@@ -1987,6 +2085,12 @@
     },
     "done": true
   },
+  "ic2:recipes/lapotron_crystal_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 21:09:07 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-10-05 01:41:10 +0100"
@@ -2032,6 +2136,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-10-05 02:11:28 +0100"
+    },
+    "done": true
+  },
+  "ic2:recipes/hv_cable_recipes": {
+    "criteria": {
+      "has_item": "2024-10-16 23:49:52 +0100"
     },
     "done": true
   },

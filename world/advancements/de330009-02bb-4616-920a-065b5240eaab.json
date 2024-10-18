@@ -404,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-10-17 20:44:29 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/2xins._hv_cable_recipes": {
     "criteria": {
       "has_item": "2024-10-12 22:01:49 +0100"
@@ -707,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2024-10-17 20:22:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-05 02:18:48 +0100"
@@ -854,6 +866,18 @@
   "buildcraftcore:free_power": {
     "criteria": {
       "code_trigger": "2024-10-05 23:09:20 +0100"
+    },
+    "done": true
+  },
+  "railcraft:tracks/coke_oven": {
+    "criteria": {
+      "build": "2024-10-17 20:34:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-10-17 20:45:14 +0100"
     },
     "done": true
   },
@@ -1074,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-10-17 20:45:04 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/macerator_recipes": {
     "criteria": {
       "has_item": "2024-10-05 22:59:01 +0100"
@@ -1107,6 +1137,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-10-05 01:43:03 +0100"
+    },
+    "done": true
+  },
+  "buildcraftlib:recipes/guide_book": {
+    "criteria": {
+      "has_paper": "2024-10-17 20:45:04 +0100"
     },
     "done": true
   },
@@ -1170,6 +1206,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "place_conveyor": "2024-10-17 21:02:38 +0100"
+    },
+    "done": true
+  },
   "projecte:klein_star_ein": {
     "criteria": {
       "klein_star": "2024-10-06 01:49:45 +0100"
@@ -1179,6 +1221,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-10-05 23:01:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-10-17 20:22:32 +0100"
     },
     "done": true
   },
@@ -1296,6 +1344,12 @@
     },
     "done": true
   },
+  "ic2:recipes/sugarcane_recipes": {
+    "criteria": {
+      "has_item_0": "2024-10-17 20:44:29 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/dense_copper_plate_recipes": {
     "criteria": {
       "has_item": "2024-10-10 20:23:25 +0100"
@@ -1311,6 +1365,12 @@
   "ic2:recipes/nanosuit_helmet_recipes": {
     "criteria": {
       "has_item": "2024-10-12 20:56:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-10-17 20:45:14 +0100"
     },
     "done": true
   },
@@ -1608,6 +1668,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/coal_generator": {
+    "criteria": {
+      "coal_generator": "2024-10-17 00:12:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-10-05 02:15:53 +0100"
@@ -1872,6 +1938,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2024-10-17 20:41:11 +0100"
+    },
+    "done": true
+  },
   "ic2:recipes/raw_carbon_fibre_recipes": {
     "criteria": {
       "has_item": "2024-10-06 22:56:12 +0100"
@@ -2001,6 +2073,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-10-05 01:42:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-10-17 20:44:29 +0100"
     },
     "done": true
   },
@@ -2323,6 +2401,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-10-06 01:31:39 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2024-10-17 20:45:32 +0100"
     },
     "done": true
   },
